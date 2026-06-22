@@ -6,7 +6,7 @@
 *Passionate about creating intuitive and engaging user experiences.*
 *Specializing in transforming ideas into beautifully crafted products.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF4A1C?style=for-the-badge&logo=firefox&logoColor=white)](tanmayrongre.qzz.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4A1C?style=for-the-badge&logo=firefox&logoColor=white)](http://tanmayrongre.qzz.io)
 [![Connect Hub](https://img.shields.io/badge/Connect_Hub-0f0e0d?style=for-the-badge&logo=linkfire&logoColor=FF4A1C)](https://tanmayrongre.github.io/Connect-hub)
 
 </div>
