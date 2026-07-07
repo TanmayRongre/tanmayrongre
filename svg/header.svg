@@ -103,9 +103,9 @@
 
   <!-- Main fire title -->
   <g class="fire-title" filter="url(#fireGlow)">
-    <text x="450" y="118" text-anchor="middle" class="title">「 THRINADH.DEV 」</text>
+    <text x="450" y="118" text-anchor="middle" class="title">「 TANMAY.RONGRE 」</text>
   </g>
 
   <!-- Subtitle -->
-  <text x="450" y="152" text-anchor="middle" class="subtitle">AI &amp; ML  ·  FULL-STACK  ·  ANDROID  ·  GEN AI</text>
+  <text x="450" y="152" text-anchor="middle" class="subtitle">MONGODB  ·  EXPRESS  ·  REACT  ·  NODE.JS</text>
 </svg>

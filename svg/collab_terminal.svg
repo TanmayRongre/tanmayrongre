@@ -45,10 +45,10 @@
       <text x="0" y="38" class="term-sub">Scanning for compatible vectors and shared systems...</text>
 
       <g transform="translate(20, 82)">
-        <text x="0"   y="0"  class="term-item" fill="#FFD700">[+] Generative AI &amp; RAG Pipelines</text>
-        <text x="0"   y="38" class="term-item" fill="#FF6B35">[+] Multi-Agent Frameworks</text>
-        <text x="390" y="0"  class="term-item" fill="#FFD700">[+] Full-Stack Architecture</text>
-        <text x="390" y="38" class="term-item" fill="#FF6B35">[+] Scalable ML Infrastructure</text>
+        <text x="0"   y="0"  class="term-item" fill="#FFD700">[+] MERN Full Stack Development</text>
+        <text x="0"   y="38" class="term-item" fill="#FF6B35">[+] REST API Design &amp; Integration</text>
+        <text x="390" y="0"  class="term-item" fill="#FFD700">[+] React UI / Frontend Engineering</text>
+        <text x="390" y="38" class="term-item" fill="#FF6B35">[+] MongoDB &amp; Node.js Backend</text>
       </g>
 
       <text x="0" y="185" class="term-sub">&gt; STATUS: <tspan fill="#FFD700" filter="url(#glow)">AWAITING_CONNECTION_</tspan></text>

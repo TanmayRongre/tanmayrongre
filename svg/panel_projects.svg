@@ -67,6 +67,6 @@
 
   <!-- Title Text -->
   <text x="250" y="460" text-anchor="middle" class="title" filter="url(#textglow)">PROJECTS</text>
-  <text x="250" y="500" text-anchor="middle" class="subtitle">ai • full-stack • agents</text>
+  <text x="250" y="500" text-anchor="middle" class="subtitle">mongodb • express • react • node</text>
   <text x="250" y="560" text-anchor="middle" class="cta">VIEW REPOS →</text>
 </svg>

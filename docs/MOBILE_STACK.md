@@ -1,28 +1,28 @@
-# 「 📱 Mobile & Android Engineering Architecture 」
+# 「 📱 Frontend & React Component Architecture 」
 
-> *"A great mobile application feels effortless, responsive, and native to the user's device while securely integrating complex cloud workflows."*
-
----
-
-## ⚡ 1. Native Android Stack
-
-For high-performance native mobile applications:
-* **Language:** Kotlin & Java (with deep emphasis on Kotlin Coroutines and Flow for asynchronous data streams).
-* **UI Toolkit:** Jetpack Compose for declarative, responsive, and modern UI design, supplemented by XML layouts for legacy integration.
-* **Architecture:** Clean Architecture with MVVM (Model-View-ViewModel) pattern to ensure modularity, testability, and separation of concerns.
-* **Dependency Injection:** Dagger Hilt / Koin for clean component lifecycles.
+> *"A great UI feels effortless and responsive — built with clean components, predictable state, and smooth user interactions."*
 
 ---
 
-## ☁️ 2. Backend & Cloud Integration
+## ⚡ 1. React Component Architecture
 
-* **Firebase Ecosystem:** Realtime Database, Cloud Firestore, Firebase Authentication (Phone OTP, OAuth), and Cloud Messaging (FCM) for push notifications.
-* **REST & GraphQL APIs:** Retrofit and OkHttp for robust network communication and JSON parsing.
-* **Offline Persistence:** Room Database and DataStore for reliable offline-first user experiences.
+For scalable and maintainable React projects:
+* **Atomic Design:** Components organized from atoms (buttons, inputs) → molecules (forms, cards) → organisms (navbar, modals) → pages.
+* **Custom Hooks:** Business logic extracted into reusable custom hooks (`useAuth`, `useFetch`, `useForm`) for separation of concerns.
+* **Props Drilling Prevention:** Context API or Redux used strategically to avoid deep prop chains.
 
 ---
 
-## 🤖 3. On-Device AI & ML Integration
+## ☁️ 2. API Integration & Data Fetching
 
-* **TensorFlow Lite:** Deploying quantized machine learning models directly on Android devices for edge inference (image recognition, NLP).
-* **ML Kit:** Integrating Google's ML Kit for barcode scanning, OCR text recognition, and face detection without cloud latency.
+* **Axios:** Preferred HTTP client with interceptors for global request/response handling (auth tokens, error messages).
+* **Async/Await:** Clean async patterns for all API calls with proper loading and error state management.
+* **Environment Variables:** All API base URLs managed through `.env` files — never hardcoded in components.
+
+---
+
+## 🤖 3. Forms & Validation
+
+* **Controlled Components:** All form inputs managed through React state for real-time validation and control.
+* **Client-Side Validation:** Input validation before hitting the API to reduce unnecessary server calls.
+* **Error Feedback:** User-friendly error messages displayed inline, not just via browser alerts.
