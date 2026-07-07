@@ -29,12 +29,13 @@
 ```javascript
 const tanmay = {
     alias:    "tanmayrongre",
+    age:      17,
     role:     "MERN Full Stack Developer",
-    degree:   "BE CSE Graduate",
+    education:"Polytechnic Student (CSE)",
     focus:    ["MongoDB", "Express.js", "React", "Node.js"],
     building: "Full-Stack Web Apps with MERN Stack",
     learning: ["REST APIs", "JWT Auth", "Cloud Deployment"],
-    funFact:  "I turn ideas into full-stack apps — one MERN project at a time 🔥"
+    funFact:  "17 y/o turning ideas into full-stack apps — one MERN project at a time 🔥"
 };
 ```
 
